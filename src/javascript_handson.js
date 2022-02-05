@@ -58,5 +58,7 @@ const sum = 20 + 0;
 const difference = 45 - 33;
 /* Multiplication in JS. */
 const product = 8 * 10;
+/* Division in JS. */
+const quotient = 66 / 33;
 
 
