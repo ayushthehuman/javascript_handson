@@ -17,6 +17,7 @@ b=a;
 // Only change code below this line
 /* Initializing Variables with the Assignment Operator */
 var a=9;
-
-
+/* Declare String Variables*/
+var myFirstName = "a";
+var myLastName =  "s";
 
