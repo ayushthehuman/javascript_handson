@@ -239,4 +239,8 @@ const myList = [
     ["Angile", 8],
     ["Cyber", 9]
     ];
-  
+/* Write Reusable JavaScript with Functions */
+function reusableFunction(){
+    console.log("Hi World");
+ } 
+ reusableFunction();
