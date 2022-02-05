@@ -184,3 +184,6 @@ const wordBlanks =  "The " + myAdjective + " " + myNoun + " " + myVerb + " " + m
 /* storing multiple values in array using JS */
 // Only change code below this line
 const myArray = ["Apple" , 45];
+/* Storing multiple array using JS */
+// Only change code below this line
+const myArray = [[], []];
