@@ -66,7 +66,10 @@ let myVar = 87;
 myVar++;
 /* Decrement in JS. */
 let myVar = 11;
-
 // Only change code below this line
 myVar--;
+/* Decimal in JS */
+const myDecimal = 5.7;
+// Only change code below this line
+
 
