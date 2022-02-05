@@ -249,3 +249,8 @@ function reusableFunction(){
     console.log(o + t);
   }
   functionWithArgs(1,2);
+  /* Return a Value from a Function with Return */
+  function timesFive(a){
+    return 5*a;
+  }
+  timesFive(5);
