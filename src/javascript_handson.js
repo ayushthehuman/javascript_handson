@@ -73,4 +73,6 @@ const myDecimal = 5.7;
 // Only change code below this line
 /* Multiplication of Decimal in JS. */
 const product = 1.0 * 5.0;
+/* Division of decimal numbers */
+const quotient = 4.4 / 2; // Change this line
 
