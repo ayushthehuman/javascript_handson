@@ -71,5 +71,6 @@ myVar--;
 /* Decimal in JS */
 const myDecimal = 5.7;
 // Only change code below this line
-
+/* Multiplication of Decimal in JS. */
+const product = 1.0 * 5.0;
 
