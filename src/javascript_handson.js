@@ -86,4 +86,13 @@ let c = 12;
 a += 12;
 b += 9;
 c += 7;
+/* Compound Assignment With Augmented Substraction */
+let a = 11;
+let b = 9;
+let c = 3;
+
+// Only change code below this line
+a -= 6;
+b -= 15;
+c -= 1 ;
 
