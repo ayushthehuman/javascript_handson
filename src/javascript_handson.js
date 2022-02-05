@@ -314,3 +314,12 @@ function addFive(){
 // Only change code above this line
 addThree();
 addFive();
+/* Assignment with a Returned Value */
+// Setup
+let processed = 0;
+
+function processArg(num) {
+  return (num + 3) / 5;
+}
+processed=processArg(7)
+// Only change code below this line
