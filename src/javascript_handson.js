@@ -6,28 +6,28 @@ var myName;
 /* storing values using assingment operators. */
 // Setup
 var a;
-a=7;
+a = 7;
 // Only change code below this line
 /* Assigning the Value of One Variable to Another */
 // Setup
 var a;
 a = 7;
 var b;
-b=a;
+b = a;
 // Only change code below this line
 /* Initializing Variables with the Assignment Operator */
-var a=9;
+var a = 9;
 /* Declare String Variables*/
 var myFirstName = "a";
-var myLastName =  "s";
+var myLastName = "s";
 /* Understanding Uninitialized Variables */
 // Only change code below this line
 var a;
 var b;
 var c;
-a=5;
-b=10;
-c="I am a"
+a = 5;
+b = 10;
+c = "I am a"
 // Only change code above this line
 
 a = a + 1;
@@ -60,5 +60,8 @@ const difference = 45 - 33;
 const product = 8 * 10;
 /* Division in JS. */
 const quotient = 66 / 33;
-
+/* Incrementation in JS. */
+let myVar = 87;
+// Only change code below this line
+myVar++;
 
