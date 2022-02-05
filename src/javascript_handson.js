@@ -56,6 +56,7 @@ console.log(FCC, fact); // Change this line
 const sum = 20 + 0;
 /* Subtract One Number from Another with JavaScript */
 const difference = 45 - 33;
-
+/* Multiplication in JS. */
+const product = 8 * 10;
 
 
