@@ -77,5 +77,13 @@ const product = 1.0 * 5.0;
 const quotient = 4.4 / 2; // Change this line
 /* Finding a remainder in JS. */
 const remainder = 11 % 3;
+/* Compound Assignment With Augmented Addition */
+let a = 3;
+let b = 17;
+let c = 12;
 
+// Only change code below this line
+a += 12;
+b += 9;
+c += 7;
 
