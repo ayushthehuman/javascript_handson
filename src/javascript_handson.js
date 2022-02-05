@@ -133,3 +133,10 @@ const myStr = "Hello, myName " + myName + ", how are you";
 const someAdjective = "Success";
 let myStr = "Learning to code is ";
 myStr += someAdjective;
+/* Find the Length of a String */
+// Setup
+let lastNameLength = 0;
+const lastName = "Lovelace";
+
+// Only change code below this line
+lastNameLength = lastName.length;
