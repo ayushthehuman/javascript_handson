@@ -64,4 +64,9 @@ const quotient = 66 / 33;
 let myVar = 87;
 // Only change code below this line
 myVar++;
+/* Decrement in JS. */
+let myVar = 11;
+
+// Only change code below this line
+myVar--;
 
