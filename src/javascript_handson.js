@@ -128,3 +128,8 @@ myStr+="This is the second sentence.";
 // Only change code below this line
 const myName = "Ayush";
 const myStr = "Hello, myName " + myName + ", how are you";
+/* Appending variables to string. */
+// Change code below this line
+const someAdjective = "Success";
+let myStr = "Learning to code is ";
+myStr += someAdjective;
