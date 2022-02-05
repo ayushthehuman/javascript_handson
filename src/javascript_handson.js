@@ -75,4 +75,7 @@ const myDecimal = 5.7;
 const product = 1.0 * 5.0;
 /* Division of decimal numbers */
 const quotient = 4.4 / 2; // Change this line
+/* Finding a remainder in JS. */
+const remainder = 11 % 3;
+
 
