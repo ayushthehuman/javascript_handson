@@ -181,3 +181,6 @@ const myAdverb = "quickly";
 // Only change code below this line
 const wordBlanks =  "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + "."; // Change this line
 // Only change code above this line
+/* storing multiple values in array using JS */
+// Only change code below this line
+const myArray = ["Apple" , 45];
